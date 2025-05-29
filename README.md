@@ -1,2 +1,2 @@
 # ADP_go
-This repo is for ADP test.
+This repo is for the ADP test. 
