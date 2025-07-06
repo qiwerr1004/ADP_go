@@ -1,0 +1,16 @@
+Customer,Campaign_A,Campaign_B,Campaign_C
+Customer 1,1,0,0
+Customer 2,0,1,1
+Customer 3,1,1,0
+Customer 4,0,0,0
+Customer 5,1,0,1
+Customer 6,0,1,0
+Customer 7,1,1,1
+Customer 8,0,0,0
+Customer 9,1,1,0
+Customer 10,0,0,1
+Customer 11,1,1,1
+Customer 12,0,1,0
+Customer 13,1,1,0
+Customer 14,0,0,1
+Customer 15,1,0,1
