@@ -3,3 +3,6 @@
 기타 참고링크
 https://github.com/Junoflows/ADP
 https://github.com/jjun43/adp
+https://otexts.com/fpp2/stationarity.html
+
+26화에서 파생변수는 두 연속형 변수의 중앙값으로 하는 것이 적절해보임
