@@ -1,6 +1,4 @@
 # ADP_go
-This repo is my personal data.
-(To prepare my ADP test)
 
 시험 합격했습니다.
 
